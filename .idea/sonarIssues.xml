@@ -3,12 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../java-test-project/src/main/java/domain/Hotel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/lessons/behaviorParameterization/BehaviorParameterization.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/lessons/flatMap/FlatMap.java">
           <value>
             <set />
           </value>
